@@ -32,6 +32,7 @@ int main() {
             break;
         case '^':
             result = pow(num1, num2);
+        break;
             
         default:
             printf("Error: Invalid operator.\n");
